@@ -1,0 +1,3 @@
+[submodule "bundle/vim-lldb"]
+	path = bundle/vim-lldb
+	url = https://github.com/gilligan/vim-lldb.git
