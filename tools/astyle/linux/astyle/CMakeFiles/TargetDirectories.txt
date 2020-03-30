@@ -1,0 +1,7 @@
+/home/guanxiaojie/.vim/tools/astyle/astyle/CMakeFiles/install/strip.dir
+/home/guanxiaojie/.vim/tools/astyle/astyle/CMakeFiles/edit_cache.dir
+/home/guanxiaojie/.vim/tools/astyle/astyle/CMakeFiles/astyle.dir
+/home/guanxiaojie/.vim/tools/astyle/astyle/CMakeFiles/install.dir
+/home/guanxiaojie/.vim/tools/astyle/astyle/CMakeFiles/rebuild_cache.dir
+/home/guanxiaojie/.vim/tools/astyle/astyle/CMakeFiles/list_install_components.dir
+/home/guanxiaojie/.vim/tools/astyle/astyle/CMakeFiles/install/local.dir
