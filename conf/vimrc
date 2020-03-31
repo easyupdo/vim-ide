@@ -110,6 +110,12 @@ nmap fh     :sh<CR>
 " map ESC
 "imap jjj  :<Esc>
 
+"鼠标快捷键
+nmap mn     :set mouse=<CR>
+nmap ma     :set mouse=a<CR>
+"设置行号快捷键
+nmap mm  :set nu!<CR>
+
 "split win 分割窗口
 nmap <S-v> :split<CR>
 nmap <S-h> :vsplit<CR>
